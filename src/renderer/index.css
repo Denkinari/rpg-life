@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Teste forçado: se o fundo ficar vermelho, o CSS está sendo lido */
+body {
+  background-color: #1A1A1A !important;
+  color: white !important;
+}
